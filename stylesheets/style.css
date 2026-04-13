@@ -1,0 +1,60 @@
+html {
+  min-height: 100%;
+  position: relative;
+}
+body {
+  padding-top: 20px;
+  padding-left: 175px;
+  padding-right: 150px;
+  height: 100%;
+  margin: 0px;
+  font-family: actor,verdana, arial, sans-serif;
+  font-size: 16px;
+}
+a {
+  color: blue;
+  text-decoration: none;
+}
+p {
+  line-height: 150%;
+  padding-bottom: 11px;
+  -webkit-margin-before: 0.2em;
+  -webkit-margin-after: 0em;
+}
+h2.block {
+  width: 80%;
+  padding-top: 15px;
+  border-bottom: 0px solid;
+  line-height: 25px;
+  -webkit-margin-before: 10px;
+  -webkit-margin-after: 0em;
+}
+div.nav {
+  position: absolute;
+  top: 35px;
+  bottom: 35px;
+  left: 0px;
+  right: 0px;
+  font-size: small;
+  border-right: 1px solid #000;
+  width: 140px;
+  text-align: center;
+}
+ul {
+  -webkit-margin-before: 0.2em;
+  -webkit-margin-after: 0em;
+  -webkit-padding-start: 0;
+  width: inherit;
+  display: inline;
+}
+
+li {
+  margin: 0px 5px 5px 0px;
+  padding: 1.5px;
+}
+hr {
+  border-bottom: 1.1px solid #6495ed;
+}
+div.project_item {
+  margin-bottom: 11px;
+}
